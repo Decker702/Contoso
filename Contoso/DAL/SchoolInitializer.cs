@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Data.Entity;
-using ContosoUniversity.Models;
+using Contoso.Models;
 
-namespace ContosoUniversity.DAL
+namespace Contoso.DAL
 {
     public class SchoolInitializer : System.Data.Entity.DropCreateDatabaseIfModelChanges<SchoolContext>
     {
