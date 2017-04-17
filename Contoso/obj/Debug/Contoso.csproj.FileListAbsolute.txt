@@ -72,3 +72,7 @@ c:\users\moncure306\documents\visual studio 2017\Projects\Contoso\Contoso\bin\Ow
 c:\users\moncure306\documents\visual studio 2017\Projects\Contoso\Contoso\bin\EntityFramework.xml
 c:\users\moncure306\documents\visual studio 2017\Projects\Contoso\Contoso\bin\EntityFramework.SqlServer.xml
 c:\users\moncure306\documents\visual studio 2017\Projects\Contoso\Contoso\bin\Microsoft.Owin.xml
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\Contoso\Contoso\bin\PagedList.dll
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\Contoso\Contoso\bin\PagedList.Mvc.dll
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\Contoso\Contoso\bin\PagedList.xml
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\Contoso\Contoso\bin\PagedList.Mvc.xml
